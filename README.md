@@ -17,4 +17,4 @@ Proje, Visual Studio'nun varsayılan "WindowsApplication1" şablonu üzerinden o
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
